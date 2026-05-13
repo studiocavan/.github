@@ -4,7 +4,7 @@
 
 **Software & content that ships.**
 
-San Diego-based studio building custom software, AI integrations, and tools — in the open.
+San Diego-based studio building custom software, AI integrations, and tools.
 
 [studiocavan.com](https://studiocavan.com) &nbsp;·&nbsp; [Code Study](https://study.studiocavan.com)
 
